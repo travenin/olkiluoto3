@@ -1,0 +1,19 @@
+{
+  "name": "olkiluoto3",
+  "version": "1.0.0",
+  "description": "A power plant made with care - now as a Node.js module",
+  "scripts": {
+    "preinstall": "node standard-process"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travenin/olkiluoto3.git"
+  },
+  "keywords": [],
+  "author": "Lauri Virtanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travenin/olkiluoto3/issues"
+  },
+  "homepage": "https://github.com/travenin/olkiluoto3#readme"
+}
